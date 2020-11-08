@@ -1,1 +1,2 @@
-de.febrildur.xwikistarter.StartListener
+de.febrildur.xwikistarter.WikiSubwikiStartListener
+de.febrildur.xwikistarter.WikiWikiStartListener
