@@ -1,5 +1,4 @@
 # xwiki-starter
-XWiki-Component, that's starts the main wiki and all subwikis after the start of the wiki
 
 Component for XWiki to start the main wiki and all subwikis at the start of the wiki itself.
 
